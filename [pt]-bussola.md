@@ -1,4 +1,4 @@
-### Bússola
+# Bússola
 
 ####
 
@@ -8,7 +8,7 @@ _&quot;O caminho mais longo é o que percorremos quando ficamos no mesmo lugar.&
 
 Well, shall we begin?
 
-#### Sul
+## Sul
 
 **O que é uma linguagem de programação?**
 
@@ -94,17 +94,7 @@ Criptografia é o estudo dos princípios e técnicas pelas quais a informação 
 
 O Tangle também é um **livro-razão distribuído**. Porém diferente da blockchain o Tangle não possu blocos, sua estrutura é um gráfico acíclico dirigido (DAG), que tem seu foco voltado para a escalabilidade com zero taxas de transação, seu protocolo utiliza a &quot;Markov Chain Monte Carlo2&quot; como espinha dorsal matemática, auxiliando na eficiência e leveza da rede.
 
-####
-
-####
-
-####
-
-####
-
-####
-
-#### Oeste
+## Oeste
 
 ####
 
@@ -177,15 +167,8 @@ Definimos por mercado, aquele âmbito - físico, social ou virtual - no qual se 
 
 Existem algumas respostas para esta pergunta, porém, a que nós escolhemos é: porque existe centralização de recursos intelectuais, informacionais, bélicos, naturais e monetários, aliado ao desejo de conservação dos que centralizam tais recursos.
 
-####
 
-####
-
-####
-
-####
-
-#### Norte
+## Norte
 
 **Nossa visão sobre autonomia.**
 
@@ -221,9 +204,9 @@ O MAPA é o hífen, uma ferramenta que serve para unir dois ou mais elementos, o
 
 **O que é o Físico-Digital?**
 
-O ambiente digital não é alheio à vida. Por vezes, é necessário lembrar que os pontos que se conectam na Web, são seres humanos, das cidades, dos campos, das favelas. São seus colegas de trabalho, seus vizinhos e, ocasionalmente, um estudante filipino ou um surfista australiano, por que não? Também é válido ressaltar, que a energia elétrica que chega à sua casa é controlada por um sistema digital; seus pagamentos são registrados dentro do ambiente digital; sua conta bancária está em um ambiente digital e assim seguem-se os exemplos.
+O ambiente digital não é alheio à vida. Por vezes, é necessário lembrar que os pontos que se conectam na Web, são seres humanos, das cidades, dos campos, das favelas. São seus colegas de trabalho, seus vizinhos e, ocasionalmente, um estudante filipino ou um surfista australiano, por que não? Também é válido ressaltar, que a energia elétrica que chega à sua casa é controlada por um sistema digital; seus pagamentos são registrados dentro do ambiente digital; sua conta bancária está em um ambiente digital e assim seguem-se os exemplos. 
 
-        Em resumo, compreendemos que o digital está tão inserido no ambiente físico, que enxergá-los de forma dissociada é  contraproducente. A perspectiva proposta, é de entender esses ambientes como complementares, formando assim, uma relação simbiótica de interdependência. Um torna o outro mais eficiente, criando o ecossistema Físico **-** Digital.
+Em resumo, compreendemos que o digital está tão inserido no ambiente físico, que enxergá-los de forma dissociada é  contraproducente. A perspectiva proposta, é de entender esses ambientes como complementares, formando assim, uma relação simbiótica de interdependência. Um torna o outro mais eficiente, criando o ecossistema Físico - Digital.
 
 **Como uma iniciativa entra no MAPA?**
 
@@ -267,8 +250,6 @@ Com taxação, até o momento em que todos os custos da plataforma são cobertos
 
 ####
 
-#### --
-
 ####
 
 ####
@@ -277,7 +258,9 @@ Com taxação, até o momento em que todos os custos da plataforma são cobertos
 
 ####
 
-#### Para navegar em águas mais profundas
+####
+
+### Para navegar em águas mais profundas
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 
@@ -290,13 +273,12 @@ Com taxação, até o momento em que todos os custos da plataforma são cobertos
 [The Collected Papers of Albert Einstein Volume 6](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_GRelativity_1916.pdf)
 
 [The Tangle - Serguei Popov\*](https://iota.org/IOTA_Whitepaper.pdf)
- [Ethereum White Paper by Vitalyk Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
 
-[o que são dados?](http://www.ime.unicamp.br/~hildete/dados.pdf)
+[Ethereum White Paper by Vitalyk Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+[O que são dados?](http://www.ime.unicamp.br/~hildete/dados.pdf)
 
 [Short Circuit](http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf)
-
-[SYNTROPY: THE ENERGY OF LIFE](http://www.lifeenergyscience.it/english/2005-eng-1-1.pdf)
 
 [Syntropic Economic Theory and Solution of the Global Crisis](http://www.akademickyrepozitar.sk/sk/repozitar/set-solution-global-crisis.pdf)
 
