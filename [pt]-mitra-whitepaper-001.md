@@ -55,7 +55,7 @@ fluxos energéticos e os econômicos, levando-se em conta que para a produção 
 qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum tipo
 de transformação energética envolvida no processo.
 
-(^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
+ ###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
 
 ## 1. Contextualização
 
