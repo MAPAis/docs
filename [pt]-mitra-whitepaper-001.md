@@ -8,7 +8,9 @@ http://mapa.is
 
 ```
 
+
 # Resumo
+
 
 
 Esse projeto trata de conectar tecnologias existentes para que mais pessoas
@@ -25,7 +27,9 @@ criação de um sistema de emissão autônoma e distribuída de tokens cujo last
 consiste na conversão de energia fotovoltaica para elétrica.
 
 
+
 # Introdução
+
 
 
 A fragmentação de conceitos incitada majoritariamente pelo modelo de
@@ -60,7 +64,9 @@ qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum ti
 de transformação energética envolvida no processo.
 
 
+
 # 1. Contextualização
+
 
 
 ## 1.1 O papel da energia no desenvolvimento humano
@@ -169,7 +175,9 @@ difícil acesso e falho, quando analisado o impacto real que um - suposto - cida
 tem na tomada de decisões de interesse público.
 
 
+
 # 2. Problemas
+
 
 
 Um dos conceitos fundamentais que costura toda a malha da
@@ -218,7 +226,9 @@ Diretamente relacionado à problemática da escassez de serviços públicos est�
 A pobreza endêmica aparece como um sintoma tangível da insustentabilidade deste contexto. O surgimento de alternativas para geração de valor torna-se cada vez mais dependente das diretrizes escolhidas pelo emparelhamento público-privado, tornando-as consequentemente exclusivas e escassas. Este cenário, tal qual descrito, nos leva a sugerir que a manutenção da pobreza é fundamental para que os custos com mão de obra se mantenham baixos, devido ao grande número de pessoas e ao pequeno número de possibilidades de geração de valor impostas pelo contexto atual. O esforço pela manutenção do status-quo e o esforço pela manutenção da pobreza são, aqui, análogos.
 
 
+
 # 3. Proposta de Solução: MITRA
+
 
 
 **A conservação de energia em contextos hiperlocais** é a
@@ -480,7 +490,9 @@ da rede podem ter acesso permanente ao histórico de ações tomadas, ou, pelo
 menos, às decisões que devem embasar cada ação.
 
 
+
 # 4. Conclusão
+
 
 
 Esse documento é, principalmente, um convite àqueles que se
@@ -514,7 +526,9 @@ um desafio a ser superado.
 -----
 
 
+
 # 5. Referências
+
 
 
 ###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
