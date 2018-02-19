@@ -535,7 +535,7 @@ um desafio a ser superado.
 
 ###### (^3) [Desenvolvimento do sistema financeiro e pobreza no Brasil](http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf)
 
-###### (^4) Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e distribuidores.](https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf)
+###### (^4) [Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e distribuidores](https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf)
 
 ###### (^5) [The Poverty-Growth-Inequality Triangle](http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf)
 
