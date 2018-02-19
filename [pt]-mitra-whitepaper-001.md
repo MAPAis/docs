@@ -5,6 +5,7 @@ Versão 0.1
 Autoria - MAPA
 mitra@mapa.is
 http://mapa.is
+
 ```
 ## Resumo
 
@@ -20,7 +21,6 @@ valor desenhada para lidar diretamente com problemas criados por paradigmas
 obsoletos e sustentados pelo panorama atual. Tendo isso em vista, propomos a
 criação de um sistema de emissão autônoma e distribuída de tokens cujo lastro
 consiste na conversão de energia fotovoltaica para elétrica.
-
 
 ## Introdução
 
@@ -42,7 +42,7 @@ segue uma lógica holística-relativista, que nos permite questionar conceitos
 aparentemente axiomáticos e apresentar novas visões sobre estes.
 
 Neste documento, enfocaremos a relação entre energia e valor e
-apresentaremos um modelo para a ​ **criação de comunidades hiperlocais
+apresentaremos um modelo para a **criação de comunidades hiperlocais
 energeticamente autônomas.**
 
 É importante, para uma melhor compreensão do que está sendo proposto,
@@ -55,24 +55,25 @@ fluxos energéticos e os econômicos, levando-se em conta que para a produção 
 qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum tipo
 de transformação energética envolvida no processo.
 
-(^1) [E=MC²: origem e significado.][https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf] 
+(^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
 
+## 1. Contextualização
 
-### 1. Contextualização
-
-##### 1.1 O papel da energia no desenvolvimento humano
+### 1.1 O papel da energia no desenvolvimento humano
 
 A facilidade de acesso à energia elétrica é uma das variáveis fundamentais
 para um contexto de desenvolvimento humano. Ainda, a possibilidade – e
 concretização – de avanços socioeconômicos de um determinado território está
 intrinsecamente conectada à energia utilizada na produção de bens e serviços
 voltados para o mesmo território^2.
+
 Enxergamos cinco fatores, correlacionados entre si, que compõem o
 panorama em que se dá o desenvolvimento do projeto proposto no presente
 artigo, em respeito ao setor de energia. Estes fatores são os pilares que sustentam
 o contexto que justifica o surgimento do sistema a ser desenvolvido, já que
 tratam de problemas socioeconômicos que impulsionam a busca por uma
 solução.
+
 O primeiro fator é que ​ **a pegada energética deve ser considerada para
 metrificar a quantidade total de energia empregada na produção de bens e
 serviços de um determinado local​**. A pegada energética é definida pela
@@ -81,33 +82,34 @@ bens e serviços de um país específico. A partir deste conceito, deve ser eluc
 que grande parte da energia utilizada por países emergentes é destinada à
 produção de bens e serviços voltados para sustentar o estado de bem-estar social
 em países desenvolvidos, por meio do comércio internacional.
+
 Em segundo lugar, foi observado, em países emergentes e
-subdesenvolvidos, que **existe** ​ **uma relação de feedback entre consumo de
+subdesenvolvidos, que existe ​ **uma relação de feedback entre consumo de
 energia per capita e seu nível de desenvolvimento socioeconômico e padrões
 de vida​**.
-A correlação explicitada acima traz o terceiro fator: **é** ​ **necessário
+
+A correlação explicitada acima traz o terceiro fator: é ​ **necessário
 estabelecer, para cada local específico, um requerimento energético mínimo
 para um determinado patamar de desenvolvimento socioeconômico e padrão
 de vida​**.
-Assim, o quarto fator é que **existem** ​ **esforços de agentes dos setores de
+
+Assim, o quarto fator é que existem ​ **esforços de agentes dos setores de
 energia para encontrar meios de reduzir a demanda energética mínima para
-atingir determinado grau de desenvolvimento humano​** , principalmente com
+atingir determinado grau de desenvolvimento humano​**, principalmente com
 pesquisas que visam aumentar a eficiência dos aparelhos elétricos.
 Ainda que existam casos específicos de desassociação entre o fator
-_consumo de energia elétrica_ e o grau de desenvolvimento em países
-emergentes, devido a programas de investimento em áreas como educação e
-saúde aliados aos baixos salários nos mesmos _(Arto,_ ​ _Capellán-Pérez, Lago, Bueno,
-Bermejo, 2016)​_ , entendemos que o cenário mais recorrente é aquele em que a
+_consumo de energia elétrica_ e o _grau de desenvolvimento em países
+emergentes_, devido a programas de investimento em áreas como educação e
+saúde aliados aos baixos salários nos mesmos, entendemos que o cenário mais recorrente é aquele em que a
 retroalimentação entre energia e desenvolvimento é mais evidente.
 
-(^2) ​The energy requirements of a developed world
-
-
-O quinto e último fator é que **a restrição ou o acesso limitado à energia
+O quinto e último fator é que ​ **a restrição ou o acesso limitado à energia
 são extremamente prejudiciais para quaisquer negócios​** , independente de seu
 tamanho: de empreendedores individuais a grandes empresas.
 
-#### 1.2. A relação entre sistemas financeiros e sociedades
+(^2) - The energy requirements of a developed world - https://www.researchgate.net/publication/302060207_The_energy_requirements_of_a_developed_world
+
+#### 1.2 A relação entre sistemas financeiros e sociedades
 
 A inclusão financeira figura como uma relevante variável para que o
 desenvolvimento humano seja possível para comunidades em determinado nível
@@ -115,6 +117,7 @@ de organização^3. A ausência de sistemas financeiros^4 dita o contexto aqui
 abordado. A análise da relação direta entre serviços financeiros e economias
 hiperlocais fornece a seguinte problemática a ser apresentada, discriminada em
 outros cinco fatores.
+
 O primeiro fator postula que o **acesso** ​ **a sistemas financeiros, quando não
 é universal, gera má distribuição de renda e, consequentemente, pobreza.**^5
 O segundo é que, ​ **em muitos casos, falta infraestrutura para suportar
@@ -124,6 +127,7 @@ entre as pessoas, monopólio e falta de investimento em infraestrutura, tanto f�
 quanto intelectual. Populações culturalmente mais vulneráveis, como as de baixa
 renda, rurais, indígenas, mulheres e negros por exemplo, são os mais
 prejudicados.
+
 O terceiro fator são as ​ **moedas correntes, e como se relacionam com a
 hiperlocalidade. ​** Subentende-se, aqui, que essas figuram como o ​ **determinante
 do nível de atividade econômica** nestes locais. Observa-se que o parâmetro para
@@ -131,43 +135,45 @@ se calcular esse nível é a quantidade de dinheiro que, vindo de fora deste
 contexto, é injetado ali^6 , seja por via pública ou privada. Essa relação cria uma
 dependência de um para com o outro, pois as transações internas são sempre
 dependentes do fluxo externo, fonte das moedas correntes.
-Tal situação nos leva ao quarto fator: a **má** ​ **distribuição da riqueza
+
+Tal situação nos leva ao quarto fator: a ​ **má distribuição da riqueza
 produzida**^7. Com este fator surge a pergunta “Por que existe pobreza?”, e a
-resposta mais comum: “porque ​falta dinheiro.”,​ uma resposta um tanto rasa, visto
+resposta mais comum: “porque falta dinheiro.”, uma resposta um tanto rasa, visto
 que a maior parte da população em locais com grande pobreza^8 é
 economicamente ativa^9 , ou seja, produz riqueza, ou pelo menos tem a
-capacidade de produzi-la​.
+capacidade de produzi-la. Buscamos entender o contexto por trás disso e chegamos a uma resposta
+mais coerente: “existe pobreza porque o dinheiro se perde, a base monetária é
+escoada”. O que ocorre é que a maior parte da riqueza produzida em contextos
+hiperlocais é gasta fora dali, principalmente em cidades maiores próximas, por
+conta da recorrente escassez de serviço, fruto de um sistema econômico exclusivo^11.
 
-(^3) ​Desenvolvimento do sistema financeiro e pobreza no Brasil.
-(^4) Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e
-distribuidores. ​mitpress.mit.edu​.
-(^5) ​The Poverty-Growth-Inequality Triangle.
-(^6) ​Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite
+(^3) - Desenvolvimento do sistema financeiro e pobreza no Brasil - http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf
+
+(^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e
+distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
+
+(^5) - The Poverty-Growth-Inequality Triangle - http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf
+
+(^6) - Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite - http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf
+
 (^7) Ver “A aritmética política”, de Sir William Petty. Uma das idéias centrais do livro é a teoria do valor
 da força de trabalho, a qual afirma que o preço de um produto é determinado somente pela
 quantidade de trabalho humano necessário para produzi-lo. Faz-se aqui um contraponto com a visão
 de que além desse, existem a oferta e a procura como fatores determinantes do preço de um
 produto. Para mais informações sobre a segunda perspectiva ver: Adam Smith, Investigações sobre
-a Natureza e as Causas da Riqueza das Nações​.
-(^8) ​Pirâmide etária Rio de Janeiro 2010
-(^9) ​População Economicamente Ativa​.
+a Natureza e as Causas da Riqueza das Nações.
 
+(^8) - Pirâmide etária Rio de Janeiro 2010 - https://censo2010.ibge.gov.br/sinopse/webservice/frm_piramide.php?codigo=33
 
-Buscamos entender o contexto por trás disso e chegamos a uma resposta
-mais coerente: “existe pobreza porque o dinheiro se perde, a base monetária é
-escoada”. O que ocorre é que a maior parte da riqueza produzida em contextos
-hiperlocais é gasta fora dali, principalmente em cidades maiores próximas, por
-conta da recorrente escassez de serviço , fruto de um sistema econômico
+(^9) - População Economicamente Ativa - https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm
 
-```
-10
-```
-#### exclusivo.
+(^10) Ver tópico 3: ##### **_Problema_**
 
-```
-11
-```
-#### 1.3. Ineficiência Estatal
+(^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo
+significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido
+segundo, que afirma que algo é privado, ou restrito a poucos.
+
+#### 1.3 Ineficiência Estatal
 
 A pouca ou nenhuma educação constitucional, econômica e política
 provida à população pelo Estado^12 gera uma gama bem variada de efeitos; o que
@@ -183,13 +189,9 @@ concreta de questionamento por parte da sociedade civil, especialmente aquelas
 camadas da sociedade menos formalmente organizadas^13. Estas encontram-se
 reféns de um sistema político-eleitoral representativo altamente burocrático, de
 difícil acesso e falho, quando analisado o impacto real que um - suposto - cidadão
+tem na tomada de decisões de interesse público.
 
-(^14) tem na tomada de decisões de interesse público.
-(^10) Ver tópico 3. Problema
-(^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo
-significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido
-segundo, que afirma que algo é privado, ou restrito a poucos.
-(^12) ​O histórico da relação público-privada no Brasil na promoção do direito à educação.
+(^12) O histórico da relação público-privada no Brasil na promoção do direito à educação.
 (^13) Um exemplo desta distância nas palavras da lei:​ “​Os tratados e convenções internacionais sobre
 direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por
 três quintos dos votos dos respectivos membros, serão equivalentes às emendas
