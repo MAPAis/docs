@@ -285,3 +285,6 @@ Com taxação, até o momento em que todos os custos da plataforma são cobertos
 [O renascer da agricultura - Ernst Götsch](http://aspta.org.br/wp-content/uploads/2014/09/O-Renascer-da-Agricultura.pdf).
 
 [Syntropy: the energy of life](http://www.lifeenergyscience.it/english/2005-eng-1-1.pdf)
+
+
+![Alt Text](https://github.com/MAPAis/docs/blob/master/Logotipo%20-%20B%C3%BAssola.png)
