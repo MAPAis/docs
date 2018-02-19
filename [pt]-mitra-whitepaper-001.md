@@ -244,7 +244,7 @@ princípios que denominamos de **Economia sintrópica** - a ser explanada em seu
 pormenores em outro documento.
 
 
-![Alt Text](https://github.com/MAPAis/docs/blob/master/diagrama.png)
+![Alt Text](https://github.com/MAPAis/docs/blob/master/Diagrama%20funcionamento%20Mitra.jpg)
 
 
 Parte da problemática levantada foi adaptada às especificidades do
@@ -547,7 +547,7 @@ um desafio a ser superado.
 
 ###### (^9) [População Economicamente Ativa](https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm)
 
-###### (^10) Ver tópico 2: ##### **_Problema_**
+###### (^10) Ver tópico 2: Problema
 
 ###### (^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido segundo, que afirma que algo é privado, ou restrito a poucos.
 
