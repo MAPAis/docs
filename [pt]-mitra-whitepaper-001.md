@@ -526,44 +526,45 @@ um desafio a ser superado.
 -----
 
 
-
 # 5. Referências
 
 
+###### (^1) [E=MC²: origem e significado](https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf)
 
-###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
+###### (^2) [The energy requirements of a developed world](https://www.researchgate.net/publication/302060207_The_energy_requirements_of_a_developed_world)
 
-###### (^2) - The energy requirements of a developed world - https://www.researchgate.net/publication/302060207_The_energy_requirements_of_a_developed_world
+###### (^3) [Desenvolvimento do sistema financeiro e pobreza no Brasil](http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf)
 
-###### (^3) - Desenvolvimento do sistema financeiro e pobreza no Brasil - http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf
+###### (^4) Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e distribuidores.](https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf)
 
-###### (^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
+###### (^5) [The Poverty-Growth-Inequality Triangle](http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf)
 
-###### (^5) - The Poverty-Growth-Inequality Triangle - http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf
-
-###### (^6) - Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite - http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf
+###### (^6) [Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite](http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf)
 
 ###### (^7) Ver “A aritmética política”, de Sir William Petty. Uma das idéias centrais do livro é a teoria do valor da força de trabalho, a qual afirma que o preço de um produto é determinado somente pela quantidade de trabalho humano necessário para produzi-lo. Faz-se aqui um contraponto com a visão de que além desse, existem a oferta e a procura como fatores determinantes do preço de um produto. Para mais informações sobre a segunda perspectiva ver: Adam Smith, Investigações sobre a Natureza e as Causas da Riqueza das Nações.
 
-###### (^8) - Pirâmide etária Rio de Janeiro 2010 - https://censo2010.ibge.gov.br/sinopse/webservice/frm_piramide.php?codigo=33
+###### (^8) [Pirâmide etária Rio de Janeiro 2010](https://censo2010.ibge.gov.br/sinopse/webservice/frm_piramide.php?codigo=33)
 
-###### (^9) - População Economicamente Ativa - https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm
+###### (^9) [População Economicamente Ativa](https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm)
 
 ###### (^10) Ver tópico 2: ##### **_Problema_**
 
 ###### (^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido segundo, que afirma que algo é privado, ou restrito a poucos.
 
-###### (^12) - O histórico da relação público-privada no Brasil na promoção do direito à educação - http://revistas.unibh.br/index.php/dchla/article/view/873/502
+###### (^12) [O histórico da relação público-privada no Brasil na promoção do direito à educação](http://revistas.unibh.br/index.php/dchla/article/view/873/502)
 
-###### (^13) Um exemplo desta distância nas palavras da lei: “Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais”. Constituição 1988, título II / capítulo I - Art. 5º - LXXVIII - § 3º. -http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
+###### (^13) Um exemplo desta distância nas palavras da lei: “Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais”. [Ver Constituição 1988, título II / capítulo I - Art. 5º - LXXVIII - § 3º.](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm)
 
-###### (^14) - TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS / CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS - http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
+###### (^14) [TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS / CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm)
 
-###### (^15) - Lista de escândalos políticos no Brasil - https://pt.wikipedia.org/wiki/Lista_de_esc%C3%A2ndalos_pol%C3%ADticos_no_Brasil
+###### (^15) [Lista de escândalos políticos no Brasil](https://pt.wikipedia.org/wiki/Lista_de_esc%C3%A2ndalos_pol%C3%ADticos_no_Brasil)
 
-###### (^16) - STJ - corte no fornecimento de serviços públicos essenciais - http://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20Teses%2013.pdf
+###### (^16) [STJ - corte no fornecimento de serviços públicos essenciais](http://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20Teses%2013.pdf)
 
-###### (^17) “São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo iminente a sobrevivência, a saúde ou a segurança da população”. fonte: http://www.planalto.gov.br/ccivil_03/leis/L7783.htm
+###### (^17) [“São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo iminente a sobrevivência, a saúde ou a segurança da população”.](http://www.planalto.gov.br/ccivil_03/leis/L7783.htm)
 
-###### (^18) - A relação entre o lazer e a qualidade de vida: indicativos à atuação do profissional em educação física - http://www.educadores.diaadia.pr.gov.br/arquivos/File/fevereiro2012/educacao_fisica_artigos/relacao_lazer_qualidade_vida.pdf
+###### (^18) [A relação entre o lazer e a qualidade de vida: indicativos à atuação do profissional em educação física](http://www.educadores.diaadia.pr.gov.br/arquivos/File/fevereiro2012/educacao_fisica_artigos/relacao_lazer_qualidade_vida.pdf)
+
+
+![Alt Text](https://github.com/MAPAis/docs/blob/master/Logotipo%20-%20Mitra.png)
 
