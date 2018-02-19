@@ -222,6 +222,7 @@ Vamos promover e desenvolver esses aspectos, fundamentando nossa ação em
 princípios que denominamos de ​ **Economia sintrópica** - a ser explanada em seus
 pormenores em outro documento.
 
+![Alt Text](https://github.com/MAPAis/docs/blob/master/diagrama.png)
 
 Parte da problemática levantada foi adaptada às especificidades do
 contexto brasileiro, no qual o projeto tem origem, embora esteja presente em
