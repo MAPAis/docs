@@ -7,7 +7,9 @@ mitra@mapa.is
 http://mapa.is
 
 ```
+
 # Resumo
+
 
 Esse projeto trata de conectar tecnologias existentes para que mais pessoas
 possam contribuir e desenhar contextos que sejam favoráveis para o
@@ -22,7 +24,9 @@ obsoletos e sustentados pelo panorama atual. Tendo isso em vista, propomos a
 criação de um sistema de emissão autônoma e distribuída de tokens cujo lastro
 consiste na conversão de energia fotovoltaica para elétrica.
 
+
 # Introdução
+
 
 A fragmentação de conceitos incitada majoritariamente pelo modelo de
 pensamento dedutivo racional proposto por Descartes e popularizado por
@@ -55,7 +59,9 @@ fluxos energéticos e os econômicos, levando-se em conta que para a produção 
 qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum tipo
 de transformação energética envolvida no processo.
 
+
 # 1. Contextualização
+
 
 ## 1.1 O papel da energia no desenvolvimento humano
 
@@ -72,9 +78,9 @@ o contexto que justifica o surgimento do sistema a ser desenvolvido, já que
 tratam de problemas socioeconômicos que impulsionam a busca por uma
 solução.
 
-O primeiro fator é que ​ **a pegada energética deve ser considerada para
+O primeiro fator é que **a pegada energética deve ser considerada para
 metrificar a quantidade total de energia empregada na produção de bens e
-serviços de um determinado local​**. A pegada energética é definida pela
+serviços de um determinado local**. A pegada energética é definida pela
 quantidade de energia consumida ao redor do mundo para suprir a demanda por
 bens e serviços de um país específico. A partir deste conceito, deve ser elucidado
 que grande parte da energia utilizada por países emergentes é destinada à
@@ -82,18 +88,18 @@ produção de bens e serviços voltados para sustentar o estado de bem-estar soc
 em países desenvolvidos, por meio do comércio internacional.
 
 Em segundo lugar, foi observado, em países emergentes e
-subdesenvolvidos, que existe ​ **uma relação de feedback entre consumo de
+subdesenvolvidos, que existe **uma relação de feedback entre consumo de
 energia per capita e seu nível de desenvolvimento socioeconômico e padrões
-de vida​**.
+de vida**.
 
-A correlação explicitada acima traz o terceiro fator: é ​ **necessário
+A correlação explicitada acima traz o terceiro fator: é **necessário
 estabelecer, para cada local específico, um requerimento energético mínimo
 para um determinado patamar de desenvolvimento socioeconômico e padrão
-de vida​**.
+de vida**.
 
-Assim, o quarto fator é que existem ​ **esforços de agentes dos setores de
+Assim, o quarto fator é que existem **esforços de agentes dos setores de
 energia para encontrar meios de reduzir a demanda energética mínima para
-atingir determinado grau de desenvolvimento humano​**, principalmente com
+atingir determinado grau de desenvolvimento humano**, principalmente com
 pesquisas que visam aumentar a eficiência dos aparelhos elétricos.
 Ainda que existam casos específicos de desassociação entre o fator
 _consumo de energia elétrica_ e o _grau de desenvolvimento em países
@@ -101,8 +107,8 @@ emergentes_, devido a programas de investimento em áreas como educação e
 saúde aliados aos baixos salários nos mesmos, entendemos que o cenário mais recorrente é aquele em que a
 retroalimentação entre energia e desenvolvimento é mais evidente.
 
-O quinto e último fator é que ​ **a restrição ou o acesso limitado à energia
-são extremamente prejudiciais para quaisquer negócios​** , independente de seu
+O quinto e último fator é que **a restrição ou o acesso limitado à energia
+são extremamente prejudiciais para quaisquer negócios** , independente de seu
 tamanho: de empreendedores individuais a grandes empresas.
  
 ## 1.2 A relação entre sistemas financeiros e sociedades
@@ -114,9 +120,10 @@ abordado. A análise da relação direta entre serviços financeiros e economias
 hiperlocais fornece a seguinte problemática a ser apresentada, discriminada em
 outros cinco fatores.
 
-O primeiro fator postula que o **acesso** ​ **a sistemas financeiros, quando não
+O primeiro fator postula que o **acesso a sistemas financeiros, quando não
 é universal, gera má distribuição de renda e, consequentemente, pobreza.**^5
-O segundo é que, ​ **em muitos casos, falta infraestrutura para suportar
+
+O segundo é que, **em muitos casos, falta infraestrutura para suportar
 esses sistemas.** Fatores históricos trazem à tona consequências problemáticas
 para os mercados locais, tais como: quantidades assimétricas de informação
 entre as pessoas, monopólio e falta de investimento em infraestrutura, tanto física
@@ -124,8 +131,8 @@ quanto intelectual. Populações culturalmente mais vulneráveis, como as de bai
 renda, rurais, indígenas, mulheres e negros por exemplo, são os mais
 prejudicados.
 
-O terceiro fator são as ​ **moedas correntes, e como se relacionam com a
-hiperlocalidade. ​** Subentende-se, aqui, que essas figuram como o ​ **determinante
+O terceiro fator são as **moedas correntes, e como se relacionam com a
+hiperlocalidade.** Subentende-se, aqui, que essas figuram como o **determinante
 do nível de atividade econômica** nestes locais. Observa-se que o parâmetro para
 se calcular esse nível é a quantidade de dinheiro que, vindo de fora deste
 contexto, é injetado ali^6 , seja por via pública ou privada. Essa relação cria uma
@@ -136,7 +143,7 @@ Tal situação nos leva ao quarto fator: a **má distribuição da riqueza
 produzida**^7. Com este fator surge a pergunta “Por que existe pobreza?”, e a
 resposta mais comum: “porque falta dinheiro.”, uma resposta um tanto rasa, visto
 que a maior parte da população em locais com grande pobreza^8 é
-economicamente ativa^9 , ou seja, produz riqueza, ou pelo menos tem a
+economicamente ativa^9, ou seja, produz riqueza, ou pelo menos tem a
 capacidade de produzi-la. Buscamos entender o contexto por trás disso e chegamos a uma resposta
 mais coerente: “existe pobreza porque o dinheiro se perde, a base monetária é
 escoada”. O que ocorre é que a maior parte da riqueza produzida em contextos
@@ -161,7 +168,9 @@ reféns de um sistema político-eleitoral representativo altamente burocrático,
 difícil acesso e falho, quando analisado o impacto real que um - suposto - cidadão
 tem na tomada de decisões de interesse público.
 
+
 # 2. Problemas
+
 
 Um dos conceitos fundamentais que costura toda a malha da
 problemática analisada, para a qual uma proposta de solução será descrita
@@ -208,7 +217,9 @@ Diretamente relacionado à problemática da escassez de serviços públicos est�
 
 A pobreza endêmica aparece como um sintoma tangível da insustentabilidade deste contexto. O surgimento de alternativas para geração de valor torna-se cada vez mais dependente das diretrizes escolhidas pelo emparelhamento público-privado, tornando-as consequentemente exclusivas e escassas. Este cenário, tal qual descrito, nos leva a sugerir que a manutenção da pobreza é fundamental para que os custos com mão de obra se mantenham baixos, devido ao grande número de pessoas e ao pequeno número de possibilidades de geração de valor impostas pelo contexto atual. O esforço pela manutenção do status-quo e o esforço pela manutenção da pobreza são, aqui, análogos.
 
+
 # 3. Proposta de Solução: MITRA
+
 
 **A conservação de energia em contextos hiperlocais** é a
 forma mais sintética de colocar a maneira como propomos resolver aquele amplo
@@ -219,7 +230,7 @@ energia culmina na criação de um mercado hiperlocal, iluminando a perspectiva
 de elevação dos padrões de vida, tornando-a palpável. Além disso, o aquecimento
 de mercados já existentes é uma consequência necessária a ser levada em conta.
 Vamos promover e desenvolver esses aspectos, fundamentando nossa ação em
-princípios que denominamos de ​ **Economia sintrópica** - a ser explanada em seus
+princípios que denominamos de **Economia sintrópica** - a ser explanada em seus
 pormenores em outro documento.
 
 
@@ -245,7 +256,7 @@ portanto, como linguagem objetiva de intermédio de interações e aquisições.
 Enquanto sistema isolado, Mitra é uma ferramenta básica para um
 ambiente de interações humanas no qual a energia é gerada e conservada em
 um fluxo sustentável e replicável, fundamentando um estado de equilíbrio.
-Mitra pode ser observado, sob uma ​ **ótica analítica​** , enquanto um sistema
+Mitra pode ser observado, sob uma **ótica analítica**, enquanto um sistema
 completo resultante da interação constante de três camadas:
 
 ● Camada de Hardware: Um sistema fotovoltaico instalado para cada
@@ -265,9 +276,7 @@ os pontos da rede.
 responsável por executar as decisões e autogerir-se. A rede deve usar outro
 smart contract para realizar seus processos de governança.
 
-
-#### 3.1. Camada de hardware
-
+## 3.1. Camada de hardware
 
 A **camada de hardware** é responsável por tornar acessível a infraestrutura
 para a conversão autônoma de energia solar. Escolhemos sistemas fotovoltaicos
@@ -317,9 +326,7 @@ energia que está sendo utilizada por aquele ponto específico. A quantificaçã
 conversão de luz em eletricidade é o parâmetro para a criação da criptomoeda
 que será utilizada pelos membros da rede, o lastro da criptomoeda MITRA.
 
-
-#### 3.2 Camada de software
-
+## 3.2 Camada de software
 
 A **camada de software** é responsável pela geração de tokens,
 armazenamento de dados e transferência de valores na rede. Uma característica
@@ -346,9 +353,7 @@ segundo contrato inteligente, responsável por intermediar processos de
 governança dentro da rede, ou seja, uma ferramenta para registro, acesso e
 comunicação das ações de impacto público, sendo flexível ao tipo de governança escolhido por cada hiperlocalidade.
 
-
-##### 3.2.1 Integralização energética e carteiras virtuais
-
+### 3.2.1 Integralização energética e carteiras virtuais
 
 **Integralização energética** é a denominação do processo resultante da
 integração entre as camadas de hardware e software. A partir do momento que
@@ -372,9 +377,7 @@ organização local responsável por administrar a rede deve validar que uma
 carteira corresponde a um membro ativo da rede. É desta forma que a carteira faz
 a ponte entre a camada de software e a camada social de Mitra.
 
-
-##### 3.2.2  Tipos de carteiras e evolução do sistema
-
+### 3.2.2  Tipos de carteiras e evolução do sistema
 
 Participantes da rede podem ser integrados a esta sem que
 necessariamente tenham instalado um sistema fotovoltaico, desde que gerem
@@ -409,7 +412,7 @@ O incentivo à participação ativa e o engajamento pessoal em prol da
 geração de valor por meio de interações socioeconômicas entre os membros é fundamental para que
 o sistema tenha sentido.
 
-##### 3.2.3 Smart Contracts
+### 3.2.3 Smart Contracts
 
 Toda carteira do tipo C° deve estar autorizada a chamar a função de
 **criação de tokens**, porém apenas em momentos específicos, e esta função conta
@@ -436,7 +439,7 @@ Assim, é neste ponto, principalmente, que a equipe de Mitra pede,
 humildemente, a colaboração de toda a comunidade que têm o potencial de
 se envolver com o projeto, na configuração de um modelo econômico ideal; o mais adequado às necessidades humanas em cada contexto.
 
-#### 3.3 Camada social
+## 3.3 Camada social
 
 A **Camada social**, por ser composta por seres humanos, é a camada mais
 sensível e vulnerável do sistema, e também a mais importante. Mitra foi
@@ -456,7 +459,7 @@ externas ao contexto, como o próprio MAPA, se tornarão desnecessárias.
 É papel da camada social ser o elo entre o físico e o digital, identificar
 incoerências no sistema e adaptá-lo para as mais diversas realidades em que o mesmo possa ser aplicado.
 
-##### 3.3.1 Organização local
+### 3.3.1 Organização local
 
 A organização local desenvolvida terá a responsabilidade de administrar a entrada de pessoas na rede, vinculando os usuários, enquanto entidades digitais – em formas de carteiras –, às pessoas físicas por trás destas executar as decisões da rede local; desenvolver o sistema a longo prazo, adaptando-o ao seu contexto; e ainda projetar cenários favoráveis para o desenvolvimento de Mitra em um
 espectro extra local, junto com outras redes hiperlocais.
@@ -467,7 +470,7 @@ também registrados em blockchain. As peculiaridades destes processos são de
 responsabilidade de cada localidade e a camada de software responsável por
 sistematizar tais processos é flexível nessa questão.
 
-##### 3.3.2 Governança
+### 3.3.2 Governança
 
 Os processos de governança mais relevantes que definam edições no
 sistema e/ou transições entre estados estratégicos da organização local devem
@@ -476,7 +479,9 @@ responsável por receber e contabilizar votos. Desta maneira, todos os membros
 da rede podem ter acesso permanente ao histórico de ações tomadas, ou, pelo
 menos, às decisões que devem embasar cada ação.
 
+
 # 4. Conclusão
+
 
 Esse documento é, principalmente, um convite àqueles que se
 identificarem com as questões e objetivos aqui levantados. O que propomos está
@@ -505,9 +510,12 @@ desenhar contextos mais sustentáveis.
 Uma vez estabelecidas estas premissas, um problema volta a ser somente mais
 um desafio a ser superado.
 
+
 -----
 
+
 # 5. Referências
+
 
 ###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
 
