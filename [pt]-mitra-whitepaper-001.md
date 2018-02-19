@@ -222,7 +222,9 @@ Vamos promover e desenvolver esses aspectos, fundamentando nossa ação em
 princípios que denominamos de ​ **Economia sintrópica** - a ser explanada em seus
 pormenores em outro documento.
 
+
 ![Alt Text](https://github.com/MAPAis/docs/blob/master/diagrama.png)
+
 
 Parte da problemática levantada foi adaptada às especificidades do
 contexto brasileiro, no qual o projeto tem origem, embora esteja presente em
@@ -233,6 +235,7 @@ flexibilizações, e independente da equipe atual.
 Estabelecemos aqui, então, um contraponto à ideia de escalabilidade, que
 pressupõe um crescimento centralizado, e introduzimos um modelo distribuído:
 o da replicabilidade.
+
 Levando em conta o cenário descrito, analisamos as ferramentas
 disponíveis e, a partir de uma ressignificação do uso destas, criamos Mitra.
 Sua implementação completa é caracterizada por um grupo de pessoas,
@@ -245,30 +248,28 @@ um fluxo sustentável e replicável, fundamentando um estado de equilíbrio.
 Mitra pode ser observado, sob uma ​ **ótica analítica​** , enquanto um sistema
 completo resultante da interação constante de três camadas:
 
-```
-● Camada de Hardware: ​ Um sistema fotovoltaico instalado para cada
+● Camada de Hardware: Um sistema fotovoltaico instalado para cada
 integrante da rede, cujo dever é suprir a demanda energética deste ponto.
 Essa demanda, que é entendida como um custo energético da rede como
 um todo, vai estar conectada à camada de software.
-```
-```
-● Camada de Software: ​ implementação de smart-contracts responsáveis
+
+● Camada de Software: Implementação de smart-contracts responsáveis
 pela emissão da criptomoeda lastreada na conversão de energia luminosa
 para energia elétrica. Este também é responsável pela distribuição dessas
 criptomoedas entre os participantes da rede. O registro de interações
 dessas moedas é armazenado no sistema blockchain da Ethereum,
 permitindo uma melhor e mais transparente relação entre esses registros e
 os pontos da rede.
-```
-```
-● Camada Social: uma organização formada por participantes da rede local,
+
+● Camada Social: Uma organização formada por participantes da rede local,
 responsável por executar as decisões e autogerir-se. A rede deve usar outro
 smart contract para realizar seus processos de governança.
-```
+
 
 #### 3.1. Camada de hardware
 
-A **camada** ​ **de hardware** é responsável por tornar acessível a infraestrutura
+
+A **camada de hardware** é responsável por tornar acessível a infraestrutura
 para a conversão autônoma de energia solar. Escolhemos sistemas fotovoltaicos
 como tecnologia por seu caráter replicável, pelo fato de se adequar às condições
 climáticas de boa parte do Brasil e pelo constante desenvolvimento das
@@ -278,33 +279,36 @@ valor a partir das demandas técnicas inerentes ao uso do sistema, podendo esta
 ser suprida pelos habitantes do local onde o sistema está sendo implementado. A
 camada de hardware também é responsável por fornecer o input de dados para a
 camada de software.
+
 A ideia basilar da camada de hardware é análoga a um software cliente
-que acessa uma rede ​ _peer-to-peer_ e torna-se simultaneamente servidor e cliente.
+que acessa uma rede _peer-to-peer_ e torna-se simultaneamente servidor e cliente.
 No contexto de Mitra, ao instalar um sistema fotovoltaico, ele se torna
 consumidor e abastecedor da demanda energética total da rede. Ainda assim,
 como será explicitado posteriormente, há a possibilidade de que membros que
 não abastecem a rede com eletricidade sejam anexados a ela. A camada de
 hardware é composta pelos componentes de um sistema fotovoltaico que são:
 
-**1. Painel solar:** As **​** células fotovoltaicas, conhecidas como células solares,
-    quando conectadas em circuitos em série ou paralelos, compõem um
-    _módulo solar​_. O agrupamento desses módulos solares e seu
-    envelopamento por materiais protetores dá origem ao painel solar.
-**2. Controlador de carga: ​** É responsável por evitar sobrecargas ou descargas
-    excessivas, aumentando a vida útil das baterias, bem como seu
-    desempenho.
-**3. Inversor:** A **​** corrente elétrica oriunda do efeito fotovoltaico é classificada
-    como ​ _corrente contínua​_. A energia elétrica utilizada pelos
-    eletrodomésticos e outros aparelhos convencionais em uma residência
-    utilizam um tipo de corrente elétrica conhecida como ​ _corrente alternada​_.
-    O inversor é responsável por fazer a transformação da corrente contínua
-    para a alternada. Os inversores mais modernos já incluem um controlador
-    de carga incorporado.
-**4. Bateria:** Sistemas **​** fotovoltaicos devem possuir uma maneira de armazenar
-    energia elétrica, visto que o usuário nem sempre vai utilizar tudo que é
-    convertido a partir da energia luminosa e, em caso de ​ _sistemas isolados​_ , ou
-    seja, aqueles desconectados da rede elétrica, os usuários precisam de
-    abastecimento noturno ou em dias de chuva.
+```
+  1 - Painel solar: As células fotovoltaicas, conhecidas como células solares,
+      quando conectadas em circuitos em série ou paralelos, compõem um
+      módulo solar. O agrupamento desses módulos solares e seu
+      envelopamento por materiais protetores dá origem ao painel solar.
+  2 - Controlador de carga: É responsável por evitar sobrecargas ou descargas
+      excessivas, aumentando a vida útil das baterias, bem como seu
+      desempenho.
+  3 - Inversor: A corrente elétrica oriunda do efeito fotovoltaico é classificada
+      como corrente contínua. A energia elétrica utilizada pelos
+      eletrodomésticos e outros aparelhos convencionais em uma residência
+      utilizam um tipo de corrente elétrica conhecida como corrente alternada.
+      O inversor é responsável por fazer a transformação da corrente contínua
+      para a alternada. Os inversores mais modernos já incluem um controlador
+      de carga incorporado.
+  4 - Bateria: Sistemas fotovoltaicos devem possuir uma maneira de armazenar
+      energia elétrica, visto que o usuário nem sempre vai utilizar tudo que é
+      convertido a partir da energia luminosa e, em caso de sistemas isolados , ou
+      seja, aqueles desconectados da rede elétrica, os usuários precisam de
+      abastecimento noturno ou em dias de chuva.
+```
 
 Em toda instalação elétrica, seja ela alimentada pela rede pública ou pela
 conversão de energia solar no próprio local, encontra-se um medidor que serve
@@ -314,17 +318,20 @@ conversão de luz em eletricidade é o parâmetro para a criação da criptomoed
 que será utilizada pelos membros da rede, o lastro da criptomoeda MITRA.
 
 
-#### 3.2. Camada de software
+#### 3.2 Camada de software
 
-A ​ **camada de software** é responsável pela geração de tokens,
+
+A **camada de software** é responsável pela geração de tokens,
 armazenamento de dados e transferência de valores na rede. Uma característica
-ímpar de Mitra é a **geração** ​ **distribuída** ​ e **autônoma** ​ de uma criptomoeda a partir
+ímpar de Mitra é a **geração distribuída e autônoma** de uma criptomoeda a partir
 do input de dados recebido pela camada de hardware.
-Existente somente no meio digital e assegurada criptograficamente;
-lastreada na conversão de luz em energia elétrica; de emissão autônoma e
-distribuição equalizada entre todos os membros da rede. São essas as principais
-características do componente central da camada de software de Mitra, o _token_ ​
-MITRA (MTRA), de estrutura simples, conformado com o padrão ERC20.
+
+   1. ***Existente somente no meio digital e assegurada criptograficamente***
+   2. ***Lastreada na conversão de luz em energia elétrica***
+   3. ***De emissão autônoma e distribuição equalizada entre todos os membros da rede.***
+   
+São essas as principais características do componente central da camada de software de Mitra, o _token MITRA (MTRA), de estrutura simples, conformado com o padrão ERC20_.
+
 A possibilidade criada pela blockchain de transferência de valores sem a
 necessidade de um intermediário viabiliza a constituição desta camada e sua
 aplicabilidade em um contexto hiperlocal, dinamizando as relações comerciais,
@@ -333,16 +340,17 @@ inferiores se comparados aos oferecidos pelo sistema financeiro convencional.
 Um outro impacto energeticamente positivo causado por essa camada é a
 não necessidade de pagamento de tributos nas transferências de valor feitas
 utilizando o token Mitra.
+
 A camada de software também é responsável pela confecção de um
 segundo contrato inteligente, responsável por intermediar processos de
-governança dentro da rede, ou seja​, uma ferramenta para registro, acesso e
-comunicação das ações de impacto público, sendo flexível ao tipo de governança
+governança dentro da rede, ou seja, uma ferramenta para registro, acesso e
+comunicação das ações de impacto público, sendo flexível ao tipo de governança escolhido por cada hiperlocalidade.
 
-##### escolhido por cada hiperlocalidade.
 
-#### Integralização energética e carteiras virtuais
+##### 3.2.1 Integralização energética e carteiras virtuais
 
-_Integralização energética_ é a denominação do processo resultante da
+
+**Integralização energética** é a denominação do processo resultante da
 integração entre as camadas de hardware e software. A partir do momento que
 um participante instala Mitra em sua residência, torna-se consumidor e
 abastecedor da demanda energética total da rede. A _integralização_ ​ _energética_
@@ -352,6 +360,7 @@ pessoas da rede têm contempladas suas demandas energéticas.
 Ainda assim, como será colocado posteriormente, existe a possibilidade
 daqueles que não são necessariamente geradores de eletricidade para a rede
 serem anexados a esta.
+
 As carteiras virtuais, por sua vez, têm como função armazenar os tokens
 produzidos. Estas representam o ponto de convergência entre as três camadas
 do sistema. Uma carteira deve estar atrelada ao medidor do sistema fotovoltaico
@@ -363,27 +372,30 @@ organização local responsável por administrar a rede deve validar que uma
 carteira corresponde a um membro ativo da rede. É desta forma que a carteira faz
 a ponte entre a camada de software e a camada social de Mitra.
 
-#### Tipos de carteiras e evolução do sistema
+
+##### 3.2.2  Tipos de carteiras e evolução do sistema
+
 
 Participantes da rede podem ser integrados a esta sem que
 necessariamente tenham instalado um sistema fotovoltaico, desde que gerem
 algum tipo de valor subjetivo ou objetivo para a comunidade em que estão
 inseridos. Deste modo, em um estágio inicial existirão dois tipos de carteiras:
 
-```
-● Carteiras 0 (C°)​ : São aquelas cujo proprietário é um participante da
-rede e gerador de energia elétrica, ou seja, que participa ativamente
-da conversão de energia elétrica e geração de tokens.
-● Carteiras X (Cx): ​ São participantes integrados à rede que não têm,
-por qualquer que seja o motivo, condições de instalar um sistema
-fotovoltaico. Porém são vistos pela rede enquanto organismos, como
-sendo geradores de valor para a comunidade local.
-```
-A demanda energética dos participantes da rede detentores de ​ _carteiras x_
-é integralizada à demanda total da rede. Assim, a distribuição de tokens
-contempla também estes membros, para que possam ajudar a movimentar e
-aquecer mercados locais, fazendo com que a moeda circule ao serem
-recompensados por gerar valor para sua comunidade.
+  1. ***Carteiras 0 (C°) : São aquelas cujo proprietário é um participante da
+  rede e gerador de energia elétrica, ou seja, que participa ativamente
+  da conversão de energia elétrica e geração de tokens.***
+
+  2. ***Carteiras X (Cx): São participantes integrados à rede que não têm,
+  por qualquer que seja o motivo, condições de instalar um sistema
+  fotovoltaico. Porém são vistos pela rede enquanto organismos, como
+  sendo geradores de valor para a comunidade local.***
+
+A demanda energética dos participantes da rede detentores de _(Cx)_
+é integralizada à demanda total da rede. O propósito é que paulatinamente essas 
+carteiras tornem-se _(C°)_. Assim, a distribuição de tokens contempla também estes
+membros, para que possam ajudar a movimentar e aquecer mercados locais, fazendo
+com que a moeda circule ao serem recompensados por gerar valor para sua comunidade.
+
 É importante não confundir a lógica do sistema com a lógica própria às
 políticas assistencialistas. O que embasa as ações aqui propostas é a ideia de que
 uma vez que a comunidade perceba valor em um habitante, anexá-lo agregará
@@ -394,64 +406,57 @@ manutenção de pessoas dentro da rede local deve ser realizada pelos próprios
 membros da rede, que devem ser responsáveis por fazer com esta conserve
 energia aquisitiva.
 O incentivo à participação ativa e o engajamento pessoal em prol da
-geração de valor por meio de interações socioeconômicas entre os membros é
+geração de valor por meio de interações socioeconômicas entre os membros é fundamental para que
+o sistema tenha sentido.
 
-#### fundamental para que o sistema tenha sentido.
+##### 3.2.3 Smart Contracts
 
-#### Smart Contracts
-
-Toda carteira do tipo C0 deve estar autorizada a chamar a função de
-**criação de tokens​** , porém apenas em momentos específicos, e esta função conta
-com a utilização de um ​ **_oracle​_** para a captura de dados externos à blockchain,
+Toda carteira do tipo C° deve estar autorizada a chamar a função de
+**criação de tokens**, porém apenas em momentos específicos, e esta função conta
+com a utilização de um ***oracle*** para a captura de dados externos à blockchain,
 relativos à medição da quantidade de energia luminosa convertida diariamente
 para eletricidade. Essas carteiras estarão criando tokens e enviando-os,
 automaticamente, sem a possibilidade de acessá-los, ao endereço do smart
 contract que será responsável por receber todos os tokens criados, por todos os
-
-
 membros da rede e, então, redistribuir os tokens igualmente, tanto para
-detentores de carteiras C0 quanto para detentores de carteiras Cx.
+detentores de carteiras C° quanto para detentores de carteiras Cx.
 
 Será desenvolvido ainda um smart contract voltado para processos de
 governança, posteriormente descrito na seção sobre a Camada Social.
 
-**Nota: ​** É fundamental dizer que este é um projeto aberto, cujos argumentos não
-têm a pretensão de estabelecerem-se enquanto verdades. A ​ **cotação do valor
-unitário​** , ​ **suprimento diário de moedas​** e ​ **o cálculo para acompanhamento da
-autonomia ​** são extremamente suscetíveis à miríade de perspectivas individuais
-sobre economia e sociedade, de modo geral. Na versão inicial (0.1), a equipe está
+> Nota: É fundamental dizer que este é um projeto aberto, cujos argumentos não
+têm a pretensão de estabelecerem-se enquanto verdades. *A cotação do valor
+unitário*, *suprimento diário de moedas* e o *cálculo para acompanhamento da
+autonomia* são extremamente suscetíveis à miríade de perspectivas individuais
+sobre economia e sociedade de modo geral. Na versão inicial (0.1), a equipe está
 propondo o estabelecimento de um estado inicial do sistema etéreo e adaptável,
 não a cristalização de paradigmas.
 
 Assim, é neste ponto, principalmente, que a equipe de Mitra pede,
-humildemente, a colaboração de toda a comunidade que possa potencialmente
-se envolver com o projeto, na configuração de um modelo econômico ideal, o
+humildemente, a colaboração de toda a comunidade que têm o potencial de
+se envolver com o projeto, na configuração de um modelo econômico ideal; o mais adequado às necessidades humanas em cada contexto.
 
-#### mais adequado às necessidades humanas em cada contexto.
+#### 3.3 Camada social
 
-#### 3.3 - Camada social
-
-A **Camada social​** , **​** por ser composta por seres humanos, é a camada mais
+A **Camada social**, por ser composta por seres humanos, é a camada mais
 sensível e vulnerável do sistema, e também a mais importante. Mitra foi
 desenhado partindo do pressuposto que as pessoas mais capacitadas para opinar
 sobre o destino de determinada localidade são aquelas que participam dela
 diariamente.
 
-Assim, uma _implementação_ ​ _completa_ deve ocorrer em escala reduzida,
+Assim, uma _implementação completa_ deve ocorrer em escala reduzida,
 em pequenos espaços geográficos, em ação conjunta com os residentes locais.
 
 **O MAPA** será necessário em um estado inicial, e terá o papel de introduzir
 as comunidades ao uso das ferramentas que formam Mitra. Uma vez
-desenvolvida uma **organização** ​ **local** responsável pelo sistema, sua
+desenvolvida uma **organização local** responsável pelo sistema, sua
 implementação e manutenção, paulatinamente a presença de organizações
 externas ao contexto, como o próprio MAPA, se tornarão desnecessárias.
 
 É papel da camada social ser o elo entre o físico e o digital, identificar
-incoerências no sistema e adaptá-lo para as mais diversas realidades em que o
+incoerências no sistema e adaptá-lo para as mais diversas realidades em que o mesmo possa ser aplicado.
 
-##### mesmo possa ser aplicado.
-
-##### Organização local
+##### 3.3.1 Organização local
 
 A organização local desenvolvida terá a responsabilidade de administrar a entrada de pessoas na rede, vinculando os usuários, enquanto entidades digitais – em formas de carteiras –, às pessoas físicas por trás destas executar as decisões da rede local; desenvolver o sistema a longo prazo, adaptando-o ao seu contexto; e ainda projetar cenários favoráveis para o desenvolvimento de Mitra em um
 espectro extra local, junto com outras redes hiperlocais.
@@ -462,7 +467,7 @@ também registrados em blockchain. As peculiaridades destes processos são de
 responsabilidade de cada localidade e a camada de software responsável por
 sistematizar tais processos é flexível nessa questão.
 
-##### Governança
+##### 3.3.2 Governança
 
 Os processos de governança mais relevantes que definam edições no
 sistema e/ou transições entre estados estratégicos da organização local devem
@@ -483,11 +488,13 @@ sobre as problemáticas, a discussão e o desenvolvimento colaborativo da soluç
 apresentada, bem como de outras soluções, sejam uma plataforma para a
 conexão de pessoas que compartilham linhas de interesse convergentes com as
 do MAPA.
+
 A pesquisa que embasou esse documento nos deu total tranquilidade para
-assumir que: **Os** ​ **problemas estruturais do sistema socioeconômico atual
-podem ser contornados de forma definitiva.** As **​** ferramentas existem, e estão
+assumir que: **Os problemas estruturais do sistema socioeconômico atual
+podem ser contornados de forma definitiva.** As ferramentas existem, e estão
 disponíveis, temos que continuar aprendendo a utilizá-las e explorar o seu
 potencial.
+
 Entendemos também que outros problemas irão consequentemente
 surgir, no entanto entendemos a ciência e a tecnologia como ferramentas
 **práticas** de transformação. Estamos abertos a todo tipo de debate construtivo
