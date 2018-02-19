@@ -46,17 +46,16 @@ apresentaremos um modelo para a ​ **criação de comunidades hiperlocais
 energeticamente autônomas.**
 
 É importante, para uma melhor compreensão do que está sendo proposto,
-esclarecer que tomamos como base para a construção do raciocínio – a gênese
-deste projeto – ​ _a equivalência entre massa e energia​_ , proposta por Albert
+esclarecer que tomamos como base para a construção do raciocínio, a gênese
+deste projeto, a equivalência entre massa e energia, proposta por Albert
 Einstein^1.
 
 A partir dessa perspectiva, podemos estabelecer uma relação entre os
 fluxos energéticos e os econômicos, levando-se em conta que para a produção de
 qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum tipo
+de transformação energética envolvida no processo.
 
-#### de transformação energética envolvida no processo.
-
-(^1) ​E=MC²: origem e significado.
+(^1) [E=MC²: origem e significado.][https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf] 
 
 
 ### 1. Contextualização
