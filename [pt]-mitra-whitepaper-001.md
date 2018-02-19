@@ -132,7 +132,7 @@ contexto, é injetado ali^6 , seja por via pública ou privada. Essa relação c
 dependência de um para com o outro, pois as transações internas são sempre
 dependentes do fluxo externo, fonte das moedas correntes.
 
-Tal situação nos leva ao quarto fator: a ​ **má distribuição da riqueza
+Tal situação nos leva ao quarto fator: a **má distribuição da riqueza
 produzida**^7. Com este fator surge a pergunta “Por que existe pobreza?”, e a
 resposta mais comum: “porque falta dinheiro.”, uma resposta um tanto rasa, visto
 que a maior parte da população em locais com grande pobreza^8 é
@@ -161,37 +161,25 @@ reféns de um sistema político-eleitoral representativo altamente burocrático,
 difícil acesso e falho, quando analisado o impacto real que um - suposto - cidadão
 tem na tomada de decisões de interesse público.
 
-## 2. Problemas
+# 2. Problemas
 
 Um dos conceitos fundamentais que costura toda a malha da
 problemática analisada, para a qual uma proposta de solução será descrita
 posteriormente, é o de autonomia. Entendemos a autonomia como sendo a
 liberdade de uma pessoa de tomar suas próprias decisões e de definir os rumos
 da própria vida. O conceito está em relação direta com a ideia de comunicação
-como meio de atingir-se consenso e resolver conflitos. Em respeito dos
+como meio de atingir-se o consenso e resolver conflitos. Em respeito dos
 problemas a serem aqui levantados, entendemos que toda restrição de acesso a
 recursos, por agentes centralizadores, é uma agressão a autonomia.
 
-- **Centralização e Dissipação Energética​** - O observado emparelhamento
-    público-privado gera oligopólios, construídos pela pouca variedade de
-    grupos de interesses contemplados por licitações públicas, contratos
-    não-licitados, emendas parlamentares, medidas provisórias, subsídios,
-    empréstimos públicos, editais, leis de incentivo, etc. Isto configurando uma
-    centralização da energia pública e, muitas vezes, o escoamento desta para
-    destinos que não são de interesse público.
+## 2.1 Centralização e Dissipação Energética
 
-```
-15
-```
-```
+O observado emparelhamento público-privado gera oligopólios, construídos pela pouca variedade de grupos de interesses contemplados por licitações públicas, contratos não-licitados, emendas parlamentares, medidas provisórias, subsídios, empréstimos públicos, editais, leis de incentivo, etc. Isto configurando uma centralização da energia pública e, muitas vezes, o escoamento desta para destinos que não são de interesse público^15.
+    
 O fenômeno supracitado tem desdobramentos práticos em todos os
 momentos em que o cidadão se vê obrigado a interagir das mais diversas
-formas com os prestadores de serviços , sejam eles públicos ou privados.
-```
-```
-16
-```
-```
+formas com os prestadores de serviços^16, sejam eles públicos ou privados.
+
 Uma burocracia ineficiente e uma carga tributária elevada criam um
 cenário muito pouco favorável para o florescimento de novos negócios,
 levando à falta de concorrência em vários setores, principalmente aqueles
@@ -199,76 +187,30 @@ que demandam grandes investimentos infraestruturais. Sem concorrentes,
 os prestadores de serviços muitas vezes geram uma relação pouco
 vantajosa para a população quando analisado o custo-benefício dos
 serviços e produtos ofertados.
-```
-```
+
 Assim, notamos que o emparelhamento público-privado garante
-por meio de barreiras burocráticas, legislativas e tributárias que não​ ​ haja
+por meio de barreiras burocráticas, legislativas e tributárias que não haja
 um contexto favorável para a criação de novas iniciativas. Os oligopólios
 são fruto desse contexto, gerando uma concentração elevada de recursos
 nas mãos dos responsáveis pela gestão do sistema que consequentemente
 culmina no desequilíbrio na relação entre as camadas sociais,
 aprofundando cada vez mais a estratificação social no país.
-```
-- **Escassez de serviços​** - A escassez de serviços é mais uma resultante desse
-    quadro histórico, aparecendo como uma ausência estrutural em alguns
-    contextos observáveis na nossa sociedade. Falta de acesso a serviços
 
-(^15) ​Lista de escândalos políticos no Brasil.
-(^16) ​STJ - corte no fornecimento de serviços públicos essenciais.
+## 2.2 Escassez de serviços 
 
+A escassez de serviços é mais uma resultante desse quadro histórico, aparecendo como uma ausência estrutural em alguns contextos observáveis na nossa sociedade. Falta de acesso a serviços públicos essenciais^17 como saneamento básico, educação, saúde pública, segurança e transporte figuram como as principais faltas, além dos já citados energia elétrica e sistemas financeiros. Os serviços considerados não essenciais, como esporte e lazer e arte, por exemplo, que afetam diretamente os índices de qualidade de vida^18, são plenamente ignorados. Outro aspecto é o estado de desincentivo socioeconômico perene a iniciativas privadas voltadas para e, principalmente, oriundas de comunidades marginais.
 
-```
-públicos essenciais como saneamento básico,​ educação, saúde pública,
-```
-```
-17
-```
-```
-segurança e transporte figuram como as principais faltas, além dos já
-citados​ ​ energia elétrica e sistemas financeiros. Os serviços considerados
-não essenciais, como esporte e lazer, por exemplo, que afetam diretamente
-os índices de qualidade de vida , são plenamente ignorados. Outro
-```
-```
-18
-```
-```
-aspecto é o estado de desincentivo socioeconômico perene a iniciativas
-privadas voltadas para e, principalmente, oriundas de comunidades
-marginais.
-```
-- **Escoamento do potencial intelectual ​** - Diretamente relacionado à
-    problemática da escassez de serviços públicos estão as oportunidades de
-    desenvolvimento que o setor privado oferece. Estas se apresentam como o
-    melhor caminho, pois a pouca perspectiva de prosperidade em
-    comunidades marginais e a subserviência energético-produtiva das
-    periferias aos seus respectivos centros econômicos sustentam o fenômeno
-    de escoamento da produção e da criação. Este é configurado, mais uma
-    vez, por pessoas capacitadas e talentosas que, situadas em contextos
-    vulneráveis, orientam sua energia intelectual e criativa para fora da
-    comunidade em que estão inseridos. Assim se dissipa a energia em mais
-    uma de suas formas.
-- **Pobreza endêmica​** - A pobreza endêmica aparece como um sintoma
-    tangível da insustentabilidade deste contexto. O surgimento de
-    alternativas para geração de valor torna-se cada vez mais dependente das
-    diretrizes escolhidas pelo emparelhamento público-privado, tornando-as
-    consequentemente exclusivas e escassas. Este cenário, tal qual descrito,
-    nos leva a sugerir que a manutenção da pobreza é fundamental para que
-    os custos com mão de obra se mantenham baixos, devido ao grande
-    número de pessoas e ao pequeno número de possibilidades de geração de
-    valor impostas pelo contexto atual. O esforço pela manutenção do
-    status-quo e o esforço pela manutenção da pobreza são, aqui, análogos.
+## 2.3 Escoamento do potencial intelectual
 
-(^17) “São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo
-iminente a sobrevivência, a saúde ou a segurança da população”.​ fonte: ​LEI Nº 7.783, DE 28 DE
-JUNHO DE 1989.
-(^18) ​A relação entre o lazer e a qualidade de vida: indicativos à atuação do profissional em educação
-física
+Diretamente relacionado à problemática da escassez de serviços públicos estão as oportunidades de desenvolvimento que o setor privado oferece. Estas se apresentam como o melhor caminho, pois a pouca perspectiva de prosperidade em comunidades marginais e a subserviência energético-produtiva das periferias aos seus respectivos centros econômicos sustentam o fenômeno de escoamento da produção e da criação. Este é configurado, mais uma vez, por pessoas capacitadas e talentosas que, situadas em contextos vulneráveis, orientam sua energia intelectual e criativa para fora da comunidade em que estão inseridos. Assim se dissipa a energia em mais uma de suas formas.
 
+## 2.4 Pobreza endêmica
 
-## 3. Proposta de Solução: MITRA
+A pobreza endêmica aparece como um sintoma tangível da insustentabilidade deste contexto. O surgimento de alternativas para geração de valor torna-se cada vez mais dependente das diretrizes escolhidas pelo emparelhamento público-privado, tornando-as consequentemente exclusivas e escassas. Este cenário, tal qual descrito, nos leva a sugerir que a manutenção da pobreza é fundamental para que os custos com mão de obra se mantenham baixos, devido ao grande número de pessoas e ao pequeno número de possibilidades de geração de valor impostas pelo contexto atual. O esforço pela manutenção do status-quo e o esforço pela manutenção da pobreza são, aqui, análogos.
 
-**A conservação de energia aquisitiva e os contextos hiperlocais** é a
+# 3. Proposta de Solução: MITRA
+
+**A conservação de energia em contextos hiperlocais** é a
 forma mais sintética de colocar a maneira como propomos resolver aquele amplo
 espectro de problemas descritos acima. Isso se dará através da conversão de
 energia elétrica e geração de energia aquisitiva. A organização em prol do
@@ -510,13 +452,7 @@ incoerências no sistema e adaptá-lo para as mais diversas realidades em que o
 
 ##### Organização local
 
-A organização local desenvolvida terá a responsabilidade de administrar a
-entrada de pessoas na rede, vinculando os usuários, enquanto entidades digitais –
-em formas de carteiras –, às pessoas físicas por trás destas executar as decisões
-
-
-da rede local; desenvolver o sistema a longo prazo, adaptando-o ao seu contexto;
-e ainda projetar cenários favoráveis para o desenvolvimento de Mitra em um
+A organização local desenvolvida terá a responsabilidade de administrar a entrada de pessoas na rede, vinculando os usuários, enquanto entidades digitais – em formas de carteiras –, às pessoas físicas por trás destas executar as decisões da rede local; desenvolver o sistema a longo prazo, adaptando-o ao seu contexto; e ainda projetar cenários favoráveis para o desenvolvimento de Mitra em um
 espectro extra local, junto com outras redes hiperlocais.
 
 Para tornar o processo transparente e acessível, todas as tomadas de
@@ -534,7 +470,7 @@ responsável por receber e contabilizar votos. Desta maneira, todos os membros
 da rede podem ter acesso permanente ao histórico de ações tomadas, ou, pelo
 menos, às decisões que devem embasar cada ação.
 
-#### 4. Conclusão
+# 4. Conclusão
 
 Esse documento é, principalmente, um convite àqueles que se
 identificarem com as questões e objetivos aqui levantados. O que propomos está
@@ -563,7 +499,7 @@ um desafio a ser superado.
 
 -----
 
-# Referências
+# 5. Referências
 
 ###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
 
@@ -571,8 +507,7 @@ um desafio a ser superado.
 
 ###### (^3) - Desenvolvimento do sistema financeiro e pobreza no Brasil - http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf
 
-###### (^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e
-distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
+###### (^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
 
 ###### (^5) - The Poverty-Growth-Inequality Triangle - http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf
 
@@ -593,3 +528,12 @@ distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/97
 ###### (^13) Um exemplo desta distância nas palavras da lei: “Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais”. Constituição 1988, título II / capítulo I - Art. 5º - LXXVIII - § 3º. -http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
 
 ###### (^14) - TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS / CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS - http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
+
+###### (^15) - Lista de escândalos políticos no Brasil - https://pt.wikipedia.org/wiki/Lista_de_esc%C3%A2ndalos_pol%C3%ADticos_no_Brasil
+
+###### (^16) - STJ - corte no fornecimento de serviços públicos essenciais - http://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20Teses%2013.pdf
+
+###### (^17) “São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo iminente a sobrevivência, a saúde ou a segurança da população”. fonte: http://www.planalto.gov.br/ccivil_03/leis/L7783.htm
+
+###### (^18) - A relação entre o lazer e a qualidade de vida: indicativos à atuação do profissional em educação física - http://www.educadores.diaadia.pr.gov.br/arquivos/File/fevereiro2012/educacao_fisica_artigos/relacao_lazer_qualidade_vida.pdf
+
