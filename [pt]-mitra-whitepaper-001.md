@@ -7,7 +7,7 @@ mitra@mapa.is
 http://mapa.is
 
 ```
-## Resumo
+# Resumo
 
 Esse projeto trata de conectar tecnologias existentes para que mais pessoas
 possam contribuir e desenhar contextos que sejam favoráveis para o
@@ -22,7 +22,7 @@ obsoletos e sustentados pelo panorama atual. Tendo isso em vista, propomos a
 criação de um sistema de emissão autônoma e distribuída de tokens cujo lastro
 consiste na conversão de energia fotovoltaica para elétrica.
 
-## Introdução
+# Introdução
 
 A fragmentação de conceitos incitada majoritariamente pelo modelo de
 pensamento dedutivo racional proposto por Descartes e popularizado por
@@ -55,11 +55,9 @@ fluxos energéticos e os econômicos, levando-se em conta que para a produção 
 qualquer mercadoria, ou para a prestação de qualquer serviço, existe algum tipo
 de transformação energética envolvida no processo.
 
- ###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
+# 1. Contextualização
 
-## 1. Contextualização
-
-### 1.1 O papel da energia no desenvolvimento humano
+## 1.1 O papel da energia no desenvolvimento humano
 
 A facilidade de acesso à energia elétrica é uma das variáveis fundamentais
 para um contexto de desenvolvimento humano. Ainda, a possibilidade – e
@@ -106,10 +104,8 @@ retroalimentação entre energia e desenvolvimento é mais evidente.
 O quinto e último fator é que ​ **a restrição ou o acesso limitado à energia
 são extremamente prejudiciais para quaisquer negócios​** , independente de seu
 tamanho: de empreendedores individuais a grandes empresas.
-
-(^2) - The energy requirements of a developed world - https://www.researchgate.net/publication/302060207_The_energy_requirements_of_a_developed_world
-
-#### 1.2 A relação entre sistemas financeiros e sociedades
+ 
+## 1.2 A relação entre sistemas financeiros e sociedades
 
 A inclusão financeira figura como uma relevante variável para que o
 desenvolvimento humano seja possível para comunidades em determinado nível
@@ -147,33 +143,7 @@ escoada”. O que ocorre é que a maior parte da riqueza produzida em contextos
 hiperlocais é gasta fora dali, principalmente em cidades maiores próximas, por
 conta da recorrente escassez de serviço, fruto de um sistema econômico exclusivo^11.
 
-(^3) - Desenvolvimento do sistema financeiro e pobreza no Brasil - http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf
-
-(^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e
-distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
-
-(^5) - The Poverty-Growth-Inequality Triangle - http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf
-
-(^6) - Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite - http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf
-
-(^7) Ver “A aritmética política”, de Sir William Petty. Uma das idéias centrais do livro é a teoria do valor
-da força de trabalho, a qual afirma que o preço de um produto é determinado somente pela
-quantidade de trabalho humano necessário para produzi-lo. Faz-se aqui um contraponto com a visão
-de que além desse, existem a oferta e a procura como fatores determinantes do preço de um
-produto. Para mais informações sobre a segunda perspectiva ver: Adam Smith, Investigações sobre
-a Natureza e as Causas da Riqueza das Nações.
-
-(^8) - Pirâmide etária Rio de Janeiro 2010 - https://censo2010.ibge.gov.br/sinopse/webservice/frm_piramide.php?codigo=33
-
-(^9) - População Economicamente Ativa - https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm
-
-(^10) Ver tópico 3: ##### **_Problema_**
-
-(^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo
-significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido
-segundo, que afirma que algo é privado, ou restrito a poucos.
-
-#### 1.3 Ineficiência Estatal
+## 1.3 Ineficiência Estatal
 
 A pouca ou nenhuma educação constitucional, econômica e política
 provida à população pelo Estado^12 gera uma gama bem variada de efeitos; o que
@@ -190,15 +160,6 @@ camadas da sociedade menos formalmente organizadas^13. Estas encontram-se
 reféns de um sistema político-eleitoral representativo altamente burocrático, de
 difícil acesso e falho, quando analisado o impacto real que um - suposto - cidadão
 tem na tomada de decisões de interesse público.
-
-(^12) O histórico da relação público-privada no Brasil na promoção do direito à educação.
-(^13) Um exemplo desta distância nas palavras da lei:​ “​Os tratados e convenções internacionais sobre
-direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por
-três quintos dos votos dos respectivos membros, serão equivalentes às emendas
-constitucionais”.​Constituição 1988, título II / capítulo I - Art. 5º - LXXVIII - § 3º.​ ​:
-(^14) ​TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS / CAPÍTULO I DOS DIREITOS E
-DEVERES INDIVIDUAIS E COLETIVOS
-
 
 ## 2. Problemas
 
@@ -456,8 +417,6 @@ quantidade de energia elétrica gerada como parâmetro para o smart contract
 que realizará a distribuição de tokens pelos participantes da rede. Por outro lado,
 as carteiras devem estar registradas em um banco de dados, por meio do qual a
 organização local responsável por administrar a rede deve validar que uma
-
-
 carteira corresponde a um membro ativo da rede. É desta forma que a carteira faz
 a ponte entre a camada de software e a camada social de Mitra.
 
@@ -602,5 +561,35 @@ desenhar contextos mais sustentáveis.
 Uma vez estabelecidas estas premissas, um problema volta a ser somente mais
 um desafio a ser superado.
 
+-----
 
+# Referências
 
+###### (^1) - E=MC²: origem e significado - https://moodle.ufsc.br/pluginfile.php/920885/mod_book/chapter/2642/restrita/relatividade_emc2_origem_e_significado.pdf 
+
+###### (^2) - The energy requirements of a developed world - https://www.researchgate.net/publication/302060207_The_energy_requirements_of_a_developed_world
+
+###### (^3) - Desenvolvimento do sistema financeiro e pobreza no Brasil - http://www.scielo.br/pdf/ecos/v25n1/0104-0618-ecos-25-01-00247.pdf
+
+###### (^4) - Serviços financeiros são entendidos como a mistura de ferramentas financeiras, mercados e
+distribuidores. - https://mitpress.mit.edu/sites/default/files/titles/content/9780262541794_sch_0001.pdf
+
+###### (^5) - The Poverty-Growth-Inequality Triangle - http://documents.worldbank.org/curated/pt/449711468762020101/pdf/28102.pdf
+
+###### (^6) - Short Circuit - strengthening local economies for security in an unstable world. Richard Douthwaite - http://www.feasta.org/documents/shortcircuit/Short_Circuit.pdf
+
+###### (^7) Ver “A aritmética política”, de Sir William Petty. Uma das idéias centrais do livro é a teoria do valor da força de trabalho, a qual afirma que o preço de um produto é determinado somente pela quantidade de trabalho humano necessário para produzi-lo. Faz-se aqui um contraponto com a visão de que além desse, existem a oferta e a procura como fatores determinantes do preço de um produto. Para mais informações sobre a segunda perspectiva ver: Adam Smith, Investigações sobre a Natureza e as Causas da Riqueza das Nações.
+
+###### (^8) - Pirâmide etária Rio de Janeiro 2010 - https://censo2010.ibge.gov.br/sinopse/webservice/frm_piramide.php?codigo=33
+
+###### (^9) - População Economicamente Ativa - https://ww2.ibge.gov.br/home/estatistica/indicadores/trabalhoerendimento/pme/pmemet2.shtm
+
+###### (^10) Ver tópico 2: ##### **_Problema_**
+
+###### (^11) Nesse caso, ambas acepções da palavra se adequam, e é importante salientar seu duplo significado; o sentido de exclusão propriamente dito, ou o que tem poder de excluir, e o sentido segundo, que afirma que algo é privado, ou restrito a poucos.
+
+###### (^12) - O histórico da relação público-privada no Brasil na promoção do direito à educação - http://revistas.unibh.br/index.php/dchla/article/view/873/502
+
+###### (^13) Um exemplo desta distância nas palavras da lei: “Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais”. Constituição 1988, título II / capítulo I - Art. 5º - LXXVIII - § 3º. -http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
+
+###### (^14) - TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS / CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS - http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
